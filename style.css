@@ -19,7 +19,7 @@ h1{
     border-top: rgb(0, 0, 156) solid 2px;
     border-bottom: dotted darkblue 2px;
     margin-right: 400px;
-    color: rgb(0, 0, 156);
+    color: darkblue;
 }
 .kep1{
     width: 200px;
@@ -68,9 +68,9 @@ a{
 }
 .neumann3{
     border-top: darkblue solid 2px;
-    border-bottom: dotted rgb(0, 0, 156) 2px;
+    border-bottom: dotted darkblue
    
-    color: rgb(0, 0, 156);
+    color: darkblue;
 }
 .neumann4{
     margin-right: 400px;
