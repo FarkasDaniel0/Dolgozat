@@ -2,7 +2,7 @@ body{
     background-color: gray;
 }
 .kék_lap{
-    background-color: rgb(119, 206, 218);
+    background-color: lightblue;
     width: 960px ;
     margin: 0 auto 0 auto;
     padding: 30px;
@@ -10,20 +10,20 @@ body{
 }
 h1{
     text-align: center;
-    border-bottom: double 6px rgb(0, 0, 156);
+    border-bottom: double 6px darkblue;
 
 }
 
 
 .alap{
     border-top: rgb(0, 0, 156) solid 2px;
-    border-bottom: dotted rgb(0, 0, 156) 2px;
+    border-bottom: dotted darkblue 2px;
     margin-right: 400px;
     color: rgb(0, 0, 156);
 }
 .kep1{
     width: 200px;
-    border:rgb(0, 0, 156) 7px solid;
+    border: darkblue 7px solid;
     float: right;
     margin-left: 20px;
 }
@@ -38,20 +38,20 @@ h1{
 }
 .neumann2{
     width: 200px;
-    border:rgb(0, 0, 156) 7px solid;
+    border:darkblue 7px solid;
     float: right;
     margin-left: 20px;
 }
 .neumann{
     width: 200px;
-    border:rgb(0, 0, 156) 7px solid;
+    border:darkblue 7px solid;
     float: left;
     margin-right: 20px;
 }
 .alan{
 
     width: 200px;
-    border:rgb(0, 0, 156) 7px solid;
+    border:darkblue) 7px solid;
     float: left;
     margin-right: 20px;
     margin-bottom: 80px;
@@ -60,14 +60,14 @@ h1{
     margin-bottom: 30px;
 }
 a:hover{
-    color: rgb(0, 0, 156);
+    color: darkblue;
     font-style: bold;
 }
 a{
     font-style: italic;
 }
 .neumann3{
-    border-top: rgb(0, 0, 156) solid 2px;
+    border-top: darkblue solid 2px;
     border-bottom: dotted rgb(0, 0, 156) 2px;
    
     color: rgb(0, 0, 156);
