@@ -10,15 +10,59 @@ body{
 }
 h1{
     text-align: center;
-    
+    border-bottom: double 3px rgb(0, 0, 156);
+
+}
+
+
+h2{
+    border-top: rgb(0, 0, 156) solid 2px;
+    border-bottom: dotted rgb(0, 0, 156) 2px;
+    margin-right: 400px;
+    color: rgb(0, 0, 156);
+}
+.kep1{
+    width: 200px;
+    border:rgb(0, 0, 156) 7px solid;
+    float: right;
+    margin-left: 20px;
 }
 
 
 
-.info{
-   border-bottom: double;
-
+.kukac{
+    padding-left: 100px;
 }
-.definicio{
-    border-top: solid blue 2px;
+.kukackep{
+    margin-right: 5px;
+}
+.neumann2{
+    width: 200px;
+    border:rgb(0, 0, 156) 7px solid;
+    float: right;
+    margin-left: 20px;
+}
+.neumann{
+    width: 200px;
+    border:rgb(0, 0, 156) 7px solid;
+    float: left;
+    margin-right: 20px;
+}
+.alan{
+
+    width: 200px;
+    border:rgb(0, 0, 156) 7px solid;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 80px;
+}
+.alan2{
+    margin-bottom: 30px;
+}
+a:hover{
+    color: rgb(0, 0, 156);
+    font-style: bold;
+}
+a{
+    font-style: italic;
 }
