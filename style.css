@@ -10,12 +10,12 @@ body{
 }
 h1{
     text-align: center;
-    border-bottom: double 3px rgb(0, 0, 156);
+    border-bottom: double 6px rgb(0, 0, 156);
 
 }
 
 
-h2{
+.alap{
     border-top: rgb(0, 0, 156) solid 2px;
     border-bottom: dotted rgb(0, 0, 156) 2px;
     margin-right: 400px;
@@ -65,4 +65,17 @@ a:hover{
 }
 a{
     font-style: italic;
+}
+.neumann3{
+    border-top: rgb(0, 0, 156) solid 2px;
+    border-bottom: dotted rgb(0, 0, 156) 2px;
+   
+    color: rgb(0, 0, 156);
+}
+.neumann4{
+    margin-right: 400px;
+}
+ul{
+    list-style-image: url('kukac.png');
+    margin-left: 100px;
 }
